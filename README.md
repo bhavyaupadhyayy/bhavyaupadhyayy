@@ -48,14 +48,15 @@ contact:    officiallybhavya@gmail.com
 A **7-layer multi-agent financial intelligence system** on real SEC data. This is the built architecture — not a wishlist. **[🔴 Try the live demo →](https://edgar-x-26rm39rzy6c8fjzyb9pxdt.streamlit.app)**
 
 ```mermaid
+%%{init: {'flowchart': {'curve': 'basis', 'nodeSpacing': 55, 'rankSpacing': 75}}}%%
 flowchart LR
-    A["SEC EDGAR<br/>filings + XBRL"] -->|checkpointed backfill| C[("Snowflake<br/>Raw")]
-    B["FRED<br/>macro data"] -->|backfill| C
-    C -->|dbt · 75 tests| D["Staging →<br/>Marts"]
-    D --> E["XGBoost<br/>ranked screen<br/>AUC 0.726"]
-    D --> F["LLM agents<br/>grounded memos"]
-    F --> G(["LLM-as-judge<br/>evaluation"])
-    E --> H(["Live Streamlit<br/>dashboard"])
+    A["SEC EDGAR · XBRL"] -->|backfill| C[("Snowflake Raw")]
+    B["FRED macro"] -->|backfill| C
+    C -->|"dbt · 75 tests"| D["Staging → Marts"]
+    D --> E["XGBoost screen · AUC 0.726"]
+    D --> F["LLM agents · grounded memos"]
+    E --> H["Live Streamlit dashboard"]
+    F --> G["LLM-as-judge"]
     G --> H
 
     classDef src  fill:#161b22,stroke:#58A6FF,color:#E6EDF3;
