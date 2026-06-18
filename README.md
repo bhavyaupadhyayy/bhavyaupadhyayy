@@ -5,7 +5,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavyaupadhyay/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bhavyaupadhyay.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.bhavyaupadhyay.site/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:officiallybhavya@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-2E9EF7?style=for-the-badge&logo=readthedocs&logoColor=white)](https://bhavyaupadhyay.site)
 
