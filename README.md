@@ -122,7 +122,7 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhavyaupadhyayy&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bhavyaupadhyayy&show_icons=true&hide_rank=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=C9D1D9" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyaupadhyayy&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages" />
 
 </div>
