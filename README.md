@@ -10,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bhavyaupadhyay.site-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://bhavyaupadhyay.site)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bhavyaupadhyay.site-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117)](https://www.bhavyaupadhyay.site/)
 [![Resume](https://img.shields.io/badge/Résumé-PDF-2E9EF7?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=0D1117)](https://bhavyaupadhyay.site/Bhavya_Upadhyay_Resume_Updated.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/bhavyaupadhyay/)
 [![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:officiallybhavya@gmail.com)
